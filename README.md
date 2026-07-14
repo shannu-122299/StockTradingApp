@@ -1,4 +1,4 @@
-# 📈 MERN Stock Trading Application
+# MERN Stock Trading Application
 
 A Full Stack MERN Stock Trading Web Application built using **MongoDB, Express.js, React.js, Node.js, and Vite**.
 
@@ -6,9 +6,9 @@ The application allows users to create an account, manage a portfolio, buy and s
 
 ---
 
-# 🚀 Features
+# Features
 
-## 👤 User Features
+## User Features
 
 - User Registration & Login (JWT Authentication)
 - Secure Profile Management
@@ -24,7 +24,7 @@ The application allows users to create an account, manage a portfolio, buy and s
 
 ---
 
-## 👨‍💼 Admin Features
+## Admin Features
 
 - Admin Login
 - Manage Users
@@ -35,7 +35,7 @@ The application allows users to create an account, manage a portfolio, buy and s
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -56,7 +56,7 @@ The application allows users to create an account, manage a portfolio, buy and s
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 StockTradingApp
@@ -83,7 +83,7 @@ StockTradingApp
 
 ---
 
-# ✅ Prerequisites
+# Prerequisites
 
 Before running the project, install the following software:
 
@@ -103,7 +103,7 @@ Before running the project, install the following software:
 
 ---
 
-# ⚙️ Installation Guide
+# Installation Guide
 
 ## Step 1 - Clone the Repository
 
@@ -214,7 +214,7 @@ If both backend and frontend servers are running correctly, the application will
 
 ---
 
-# 👤 Demo Credentials
+# Demo Credentials
 
 Create a new account using the **Register** page.
 
@@ -222,7 +222,7 @@ Or use your own MongoDB database records if available.
 
 ---
 
-# 📬 API Testing
+# API Testing
 
 A Postman Collection is included inside the **postman** folder.
 
@@ -240,7 +240,7 @@ Available APIs include:
 
 ---
 
-# 📝 Important Note for Reviewers
+# Important Note for Reviewers
 
 This project is a **local MERN Stack application** and is **not deployed online**.
 
@@ -274,7 +274,7 @@ Both the backend server and frontend development server must be running simultan
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Real-time Stock Market API Integration
 - Live WebSocket Updates
@@ -285,7 +285,7 @@ Both the backend server and frontend development server must be running simultan
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Shanmukha Krishna**
 
