@@ -1,0 +1,22 @@
+$kind: http-request
+name: Update Skill
+url: http://localhost:5000/api/skills/6a525b786a56970578052e96
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \  \"title\": \"Java\",\r
+
+    \  \"description\": \"Advanced Java Programming\",\r
+
+    \  \"category\": \"Programming\",\r
+
+    \  \"level\": \"Advanced\"\r
+
+    }"
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNTIwMmMwNDVkYjk1ZGViZDBjM2U0MiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzgzNzgyMTQzLCJleHAiOjE3ODQzODY5NDN9.OTW_oFWAe3IVeEPfQcYqgt28xQKiPe8wzayLQOq79Ck
+order: 4261841892779873

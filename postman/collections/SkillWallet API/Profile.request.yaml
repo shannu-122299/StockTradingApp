@@ -1,0 +1,9 @@
+$kind: http-request
+name: Profile
+url: http://localhost:5000/api/users/profile
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNTIwMmMwNDVkYjk1ZGViZDBjM2U0MiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzgzNzgyMTQzLCJleHAiOjE3ODQzODY5NDN9.OTW_oFWAe3IVeEPfQcYqgt28xQKiPe8wzayLQOq79Ck
+order: 3924938125187232

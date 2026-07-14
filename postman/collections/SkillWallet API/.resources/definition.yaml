@@ -1,0 +1,7 @@
+$kind: collection
+name: SkillWallet API
+variables:
+  - key: supabase_service_role_api_key_14n2
+    secret: true
+  - key: json_web_token_14n2
+    secret: true
