@@ -184,8 +184,6 @@ This project is a **stock trading simulation application** developed for educati
 
 It does not execute real-money stock market transactions and is not currently deployed online.
 
-The application is **not currently deployed online** and does not execute real-money stock market transactions.
-
 To run the project successfully:
 
 1. Install Node.js and MongoDB or use MongoDB Atlas.
@@ -211,9 +209,3 @@ A recorded demonstration of the working application is available through the **D
 - Docker Support
 
 ---
-
-## 👨‍💻 Author
-
-**Shanmukha Krishna**
-
-GitHub: https://github.com/shannu-122299
