@@ -46,6 +46,7 @@ https://drive.google.com/file/d/193HcsOneaIhohPEYX2NkoRUw9KtdvVKV/view?usp=shari
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React.js
 - Vite
 - Axios
@@ -53,12 +54,14 @@ https://drive.google.com/file/d/193HcsOneaIhohPEYX2NkoRUw9KtdvVKV/view?usp=shari
 - CSS
 
 ### Backend
+
 - Node.js
 - Express.js
 - JWT Authentication
 - bcryptjs
 
 ### Database
+
 - MongoDB
 - Mongoose
 
@@ -118,6 +121,16 @@ PORT=5000
 ```
 
 A sample `.env.example` file is included in the repository.
+
+### 🔐 Environment Variable Security
+
+The actual `.env` file is not included in this repository because it may contain sensitive information such as the MongoDB connection string and JWT secret.
+
+For security reasons, the `.env` file is excluded from Git tracking using `.gitignore`.
+
+A `.env.example` file is provided as a template. After cloning the repository, create your own `.env` file inside the `server` folder and configure the required values.
+
+> Never commit actual database credentials, JWT secrets, or other sensitive information to a public GitHub repository.
 
 ### 4. Start the Backend
 
@@ -207,5 +220,3 @@ A recorded demonstration of the working application is available through the **D
 - Advanced Candlestick Charts
 - Cloud Deployment
 - Docker Support
-
----
